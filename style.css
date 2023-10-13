@@ -1,0 +1,357 @@
+.bg-color {
+    background: url(./img/Rectangle\ 1107.png) no-repeat;
+}
+.show75 {
+    visibility: visible;
+}
+.hide75 {
+    visibility: hidden;
+}
+header {
+    padding-top: 30px;
+    display: flex;
+}
+.img1 img {
+    margin-top: 15px;
+}
+.text1 p {
+    color: #FFF;
+    font-family: Abhaya Libre SemiBold;
+    font-size: 25px;
+    margin-top: 18px;
+    margin-left: 20px;
+}
+
+.text2 p {
+    display: flex;
+    color: rgba(255, 255, 255, 0.81);
+    font-family: Abhaya Libre SemiBold;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.text3 {
+    margin-left: 120px;
+}
+.btn1 button {
+    border-radius: 35px;
+    height: 40px;
+    background-color: initial;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-left: 120px;
+    color: #FFF;
+    font-family: Abhaya Libre SemiBold;
+    font-size: 16px;
+    border-radius: 60px;
+    border: 2px solid #9610FF;
+    box-shadow: 0px 9px 19px 0px rgba(0, 0, 0, 0.15);
+}
+.btn2 button {
+    border-radius: 35px;
+    height: 40px;
+    background-color: initial;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-left: 15px;
+    color: #FFF;
+    font-family: Abhaya Libre SemiBold;
+    font-size: 16px;
+    border-radius: 60px;
+    border: 2px solid #456AE7; 
+    box-shadow: 0px 9px 19px 0px rgba(0, 0, 0, 0.15);    
+}
+.btn3 {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.btn3 button {
+    border-radius: 60px;
+    background: rgba(255, 255, 255, 0.06);
+    box-shadow: 0px 9px 19px 0px rgba(0, 0, 0, 0.15);
+    padding-left: 20px;
+    font-size: 16px;
+    height: 44px;
+    color: white;
+}
+.btn4 {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.btn4 button {
+    border-radius: 60px;
+    background: rgba(255, 255, 255, 0.06);
+    box-shadow: 0px 9px 19px 0px rgba(0, 0, 0, 0.15);
+    padding-left: 20px;
+    font-size: 16px;
+    height: 44px;
+    color: white;
+}
+.link {
+    margin-top: 50px;
+}
+.link p {
+    color: #FFF;
+    font-family: Abhaya Libre SemiBold;
+    font-size: 16px;
+}
+.link img {
+    height: 15px;
+    margin-top: 6px;
+}
+#bir {
+    background-color: #7010ff;
+    padding-bottom: 150pxpx;
+}
+.img3 {
+    width: 600px;
+    height: 80PX;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.text4 h1 {
+    color: #FFF;
+    font-family: Abhaya Libre ExtraBold;
+    font-size: 96px;
+}
+#ikki {
+    margin-top: 20px;
+}
+.img30 {
+    width: 900px;
+    position: relative;
+}
+.text75 {
+    position: absolute;
+    top: 900px;
+    left: 300px;
+    visibility: hidden;
+}
+.text75 h3 {
+    color: black;
+    font-family: Abhaya Libre ExtraBold;
+}
+.text75 h5 {
+    color: black;
+    font-family: Abhaya Libre ExtraBold; 
+    width: 800px;
+}
+.img31 {
+    width: 410px;
+    position: relative;
+}
+.text76 {
+    position: absolute;
+    top: 900px;
+    left: 1185px;
+    visibility: hidden;
+}
+.text76 h5 {
+    color: black;
+    font-family: Abhaya Libre ExtraBold;
+}
+.text76 p {
+    color: black;
+    font-family: Abhaya Libre ExtraBold; 
+    width: 400px;
+    font-size: 15px;
+}
+.img32 {
+    width: 410px;
+    position: relative;
+}
+.text77 {
+    position: absolute;
+    top: 640px;
+    left: 1185px;
+    visibility: hidden;
+}
+.text77 h5 {
+    color: black;
+    font-family: Abhaya Libre ExtraBold;
+}
+.text77 p {
+    color: black;
+    font-family: Abhaya Libre ExtraBold; 
+    width: 400px;
+    font-size: 15px;
+}
+.eye3 {
+    width: 25px;
+    height: 25px;
+}
+.eye2 {
+    width: 25px;
+    height: 25px;
+}
+.chat1 {
+    width: 25px;
+    height: 25px;
+}
+.rasm2 {
+    margin-left: 75px;
+}
+.img21 {
+    width: 50px;
+    height: 25px;
+}
+.img5 img {
+    width: 410px;
+}
+.img6 {
+    margin-top: 30px;
+    width: 410px;
+}
+.card-img1 {
+    width: 410px;
+}
+.liniya-div {
+    margin-left: 47%;
+    margin-top: 10px;
+    margin-bottom: 200px;
+}
+.liniya img {
+    width: 50px;
+}
+.card1 {
+    width: 450px;
+}
+.card-img2 {
+    width: 25px;
+    height: 25px;
+}
+.btns button {
+    border-radius: 5px;
+    border: 1px solid #5B41F5;
+    background: #FFF;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.box {
+    height: 495px;
+    width: 450px;
+    background: #EBEBEB;
+}
+.box h4 {
+    color: gray;
+    font-family: Abhaya Libre SemiBold;
+}
+.box h2 {
+    color: black;
+    font-family: Abhaya Libre SemiBold;
+}
+.box2 {
+    background: #EBEBEB;
+    font-family: Abhaya Libre SemiBold;
+    height: 250px;
+}
+.box2 button {
+    border-radius: 5px;
+    border: 1px solid #5B41F5;
+    background: #FFF;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+.box2 h2 {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.box3 h2 {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.box3 {
+    background: #EBEBEB;
+    font-family: Abhaya Libre SemiBold;
+    width: 1000px;
+}
+.texts p {
+    color: gray;
+    font-family: Abhaya Libre SemiBold;
+}
+.h2-2 h2 {
+    background: #EBEBEB;
+    font-family: Abhaya Libre SemiBold;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-top: 75px;
+    margin-left: 10px;
+}
+.list {
+    margin-left: 360px;
+}
+.h2-3 h2 {
+    background: #6a00ff;
+    font-family: Abhaya Libre SemiBold;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-top: 75px;
+    margin-left: 10px;
+}
+#tort {
+    background: url(img/Rectangle\ 1069.png) no-repeat;
+}
+.konet {
+    padding-top: 160px;
+}
+.img10 img {
+    padding-top: 17px;
+} 
+.btn5 button {
+    border-radius: 60px;
+    border: 2px solid #456AE7;
+    box-shadow: 0px 9px 19px 0px rgba(0, 0, 0, 0.15);
+    width: 300px;
+    color: #FFF;
+    background-color: initial;
+    font-family: Abyssinica SIL;
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+.konet2 h2 {
+    font-family: Abyssinica SIL;
+    color: white;
+    padding-top: 170px;
+    margin-left: 120px;
+}
+.img11 img {
+    background-color: #6a00ff;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-top: 70px;
+}
+.img12 {
+    margin-left: 100px;
+}
+.konet3 h2 {
+    font-family: Abyssinica SIL;
+    color: white;
+    padding-top: 170px;
+    margin-left: 100px;
+}
+.silka1 h3 {
+    color: #EBEBEB;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.silka2 h3 {
+    color: #EBEBEB;
+    margin-top: 20px;
+    margin-left: 100px;
+}
